@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media1.giphy.com/media/6uyOv0yAGWdfxqLIg6/giphy.gif?cid=790b7611c33d3ab3d83c4195ec5399023c9bd1f7fa7bb9ee&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 
